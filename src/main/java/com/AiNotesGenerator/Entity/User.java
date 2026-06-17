@@ -34,4 +34,4 @@ package com.AiNotesGenerator.Entity;
 	    }
 	}
 
-}
+
