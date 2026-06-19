@@ -8,7 +8,7 @@ public class AiNotesGeneratorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AiNotesGeneratorApplication.class, args);
-		System.out.println("java is the project ");
+		
 	}
 
 }
